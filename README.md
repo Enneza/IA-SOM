@@ -1,2 +1,3 @@
 # IA-SOM
-IA SOM Iris Data 
+Code IA SOM Iris Data 
+Fiche de lecture
